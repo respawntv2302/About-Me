@@ -14,12 +14,3 @@ Web Design and Python Programming Student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=respawntv2302&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=respawntv2302&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=respawntv2302&theme=default" alt="GitHub Streak" />
-
